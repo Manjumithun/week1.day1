@@ -5,7 +5,7 @@ public class NegativeNumberValidation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		{
-	        int number=-40;
+	        int number=35;
 	        if(number > 0)
 	        {
 	            System.out.println(number+" is a positive number");
